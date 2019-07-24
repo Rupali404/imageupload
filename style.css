@@ -1,0 +1,25 @@
+body{
+
+	background-image: url("g1.jpeg");
+	background-size: 100%;
+	hight:100vh;
+}
+.container{
+	margin:100px;
+	display: flex;
+	justify-content: center;
+
+}
+.container_file{
+
+	font-size:30px;
+
+}
+.container_upload{
+
+	background-color: grey;
+	border-radius: 150px;
+	padding: 10px 30px 10px 30px;
+	color:white;
+	margin:30px;
+}
